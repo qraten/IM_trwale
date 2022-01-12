@@ -2,8 +2,8 @@
 ///////// Database Details , add  here  ////
 $dbhost_name = "localhost";
 $database = "ADM";  // Your database name
-$username = "sysadm";                  //  Login user id 
-$password = "*****_***";                  //   Login password
+$username = "admin";                  //  Login user id 
+$password = "***_***";                  //   Login password
 /////////// End of Database Details //////
 $rok = date("Y")-1;
 
