@@ -1,5 +1,5 @@
 # IM_trwale
-Drukowanie naklejek dla środków trwałych - IM
+Drukowanie naklejek dla środków trwałych - Infomedica Asseco Poland S.A. 
 
 Do poprawnego działania niezbędne kilka rzeczy:
 1. XAMPP na Windows lub Apache na Linux z dostępem do bazy danych
